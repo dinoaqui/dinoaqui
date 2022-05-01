@@ -8,11 +8,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Solo Network.
-- 🌱 I’m currently learning Azure, AWS, IaC and DevOps.
-- 👯 I’m looking to collaborate on Azure, AWS and Linux.
-- 🤔 I’m looking for help with IaC and DevOps.
-- 💬 Ask me about Cloud Computing and Linux.
+- 🔭 I’m currently working on <b>Solo Network</b>.
+- 🌱 I’m currently learning <b>Azure</b>, <b>AWS</b>, <b>IaC</b> and <b>DevOps</b>.
+- 👯 I’m looking to collaborate on <b>Azure</b>, <b>AWS</b> and <b>Linux</b>.
+- 🤔 I’m looking for help with <b>IaC</b> and <b>DevOps</b>.
+- 💬 Ask me about <b>Cloud Computing</b> and <b>Linux</b>.
 
 <div align="center">
   <a href="https://github.com/dinoaqui">
