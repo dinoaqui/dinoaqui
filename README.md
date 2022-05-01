@@ -1,4 +1,4 @@
-### Hi there 👋 I am Diego Aquino
+### Hi there 👋 I'm Diego Aquino
 
 **dinoaqui/dinoaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/dinoaqui" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" target="_blank">
   </a> 
+  
 </div>
 
 <!--
