@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Diego Aquino
 
+<p align='center'>
+  A Sr Analyst, Cloud Engineering Azure @ Solo Network.
+</p>
+
 **dinoaqui/dinoaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
