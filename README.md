@@ -45,6 +45,10 @@ Here are some ideas to get you started:
   </a> 
 </div>
 
+<p align='left'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/dinoaqui/dinoaqui"></a>
+</p>
+
 <!--
 - 📫 How to reach me
 - 😄 Pronouns: ...
