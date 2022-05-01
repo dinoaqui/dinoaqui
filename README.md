@@ -4,10 +4,6 @@
   A Sr Analyst, Cloud Engineering Azure @ Solo Network.
 </p>
 
-**dinoaqui/dinoaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <b>Solo Network</b>.
 - 🌱 I’m currently learning <b>Azure</b>, <b>AWS</b>, <b>IaC</b> and <b>DevOps</b>.
 - 👯 I’m looking to collaborate on <b>Azure</b>, <b>AWS</b> and <b>Linux</b>.
