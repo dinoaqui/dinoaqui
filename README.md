@@ -39,10 +39,10 @@ Here are some ideas to get you started:
   </a> 
     <a href="https://twitter.com/dinoaqui" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" target="_blank">
-  </a> 
+  <!-- </a> 
     <a href="https://resume.diegoaquino.com.br" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white" target="_blank">
-  </a> 
+  </a>  -->
 </div>
 
 <p align='left'>
