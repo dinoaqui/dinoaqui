@@ -5,9 +5,9 @@
 </p>
 
 - 🔭 I’m currently working on <b>Solo Network</b>.
-- 🌱 I’m currently learning <b>Azure</b>, <b>AWS</b>, <b>IaC</b> and <b>DevOps</b>.
+- 🌱 I’m currently learning <b>Azure</b>, <b>AWS</b>, <b>GCP</b> and <b>DevOps</b>.
 - 👯 I’m looking to collaborate on <b>Azure</b>, <b>AWS</b> and <b>Linux</b>.
-- 🤔 I’m looking for help with <b>IaC</b> and <b>DevOps</b>.
+- 🤔 I’m looking for help with <b>Kubernetes</b> and <b>DevOps</b>.
 - 💬 Ask me about <b>Cloud Computing</b> and <b>Linux</b>.
 
 <div align="center">
