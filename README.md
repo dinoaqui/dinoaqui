@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Diego Aquino
 
 <p align='left'>
-  A Sr Analyst, Cloud Engineering Azure @ Solo Network.
+  A Sr Analyst, Cloud Engineering @ Solo Network.
 </p>
 
 - 🔭 I’m currently working on <b>Solo Network</b>.
