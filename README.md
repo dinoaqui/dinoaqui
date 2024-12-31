@@ -5,7 +5,9 @@
 </p>
 
 - 🔭 I’m currently working on <b>Solo Network</b>.
-- 🌱 I’m currently learning <b>Azure</b>, <b>AWS</b>, <b>GCP</b> and <b>DevOps</b>.
+- 💼 I have Hard Skills in <b>Azure</b>, <b>Infrastructure</b>, <b>Networking</b>, and <b>Hybrid Environment Connectivity</b>.
+- 🐧 I’m passionate about <b>Linux</b> and love working with <b>Open-Source</b> technologies.
+- 🌱 I’m currently learning <b>AWS</b>, <b>GCP</b>, <b>Kubernetes</b> and <b>DevOps</b>.
 - 👯 I’m looking to collaborate on <b>Azure</b>, <b>AWS</b> and <b>Linux</b>.
 - 🤔 I’m looking for help with <b>Kubernetes</b> and <b>DevOps</b>.
 - 💬 Ask me about <b>Cloud Computing</b> and <b>Linux</b>.
